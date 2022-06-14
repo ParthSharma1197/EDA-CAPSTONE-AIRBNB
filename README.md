@@ -10,11 +10,11 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 **Explore and analyze the data to discover key understandings.** 
 
 ## Data Pipeline
-1. Data Understanding:This step includes a general walk through over the dataset knowing the dimensions of the dataset, datatype, different features, Checking for          missing values.
+1. **Data Understanding**:This step includes a general walk through over the dataset knowing the dimensions of the dataset, datatype, different features, Checking for          missing values.
 
-2. Data Processing: At thsi stage i have dropped two column that had some null value and also were less relevant to the scope of our analysis, this is done to keep          our data set small and concise so that handling would be easy,looked forward to the outliers to keep our data free from any anomaly and hence found the price column      to skewed towards the right and for that purpose we used median values where the analysis is done on the basis of price.
+2. **Data Processing**: At this stage i have dropped two column that had some null value and also were less relevant to the scope of our analysis, this is done to keep          our data set small and concise so that handling would be easy,looked forward to the outliers to keep our data free from any anomaly and hence found the price column      to skewed towards the right and for that purpose we used median values where the analysis is done on the basis of price.
 
-3. Exploratory Data Analysis: EDA or Exploratory Data Analysis is the critical process of performing the initial investigation on the data. So, through this we have        observed certain trends and dependencies and also drawn certain conclusions from the dataset that will be useful for further processing.
+3. **Exploratory Data Analysis**: EDA or Exploratory Data Analysis is the critical process of performing the initial investigation on the data. So, through this we have        observed certain trends and dependencies and also drawn certain conclusions from the dataset that will be useful for further processing.
 
 ## Observations:
 1. Manhattan as a neighbourhood group is the most expensive across all the room type whether it is Entire home/apt, private room or shared room.
