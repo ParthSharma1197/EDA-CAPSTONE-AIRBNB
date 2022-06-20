@@ -9,6 +9,12 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 
 **Explore and analyze the data to discover key understandings.** 
 
+## **Project Files :**
+* **Airbnb Bookings Analysis-Capstone Project.ipynb -** This file includes complete implementation of the project such as Features description, exploratory data Analysis done on the dataset.
+* **Project PPT -** This is a power point presentation file for the project. It includes various visualaized plots of EDA,conclusion and results.
+* **Project Summary -** A brief summary of the project.
+* **Technical Documentation -** This document includes all the basic information and description of different stages of the project.
+
 ## Data Pipeline
 1. **Data Understanding**:This step includes a general walk through over the dataset knowing the dimensions of the dataset, datatype, different features, Checking for          missing values.
 
@@ -27,7 +33,9 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 9. Brooklyn has the maximum number of reviews out all the neighbourhood group followed by Manhattan.
 10.Staten Island has the minimum numbers of reviews out of all the neighbourhood groups.
 
+## **Credit:**
+Parth Sharma | Data Scientist 
 
-
-
-
+## **References:**
+https://www.kaggle.com/code/subhradeep88/airbnb-analysis-eda/notebook
+https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/
